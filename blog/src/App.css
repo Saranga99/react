@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    font-family: 'Yusei Magic', sans-serif;
+    color: white;
+}
+.App{
+    width:90%;
+    margin:0 auto;
+    border: 1px solid #333333;
+}
