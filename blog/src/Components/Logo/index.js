@@ -4,7 +4,7 @@ import "./style.css";
 function Logo() {
   return (
     <div className="logo">
-      <a herf="##">Sara Here</a>
+      <a herf="##">Sample Blog-powered by REACT</a>
     </div>
   );
 }

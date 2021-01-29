@@ -1,1 +1,9 @@
-/* coding from here */
+.logo a {
+    font-family: 'Gorditas', cursive;
+    font-size: 100px;
+    text-align: center;
+    color:rgb(247, 192, 192);
+}
+.logo{
+    text-align: center;
+}
